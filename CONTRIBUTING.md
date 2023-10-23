@@ -27,13 +27,13 @@ We are very happy to receive contributions from the community in any form!
 
 Please use a GitHub pull request to submit your contributions. If you have a
 question or are unsure if a contribution is wanted, please join us in
-[TBD](#channel-name-here) on Matrix to discuss your change or on the Ansible forum 
-using the TBD tag if you prefer async discussion. 
+[Ansible Community Working Group](https://matrix.to/#/#community:ansible.com) on Matrix to discuss your change or on the Ansible forum 
+using the ``community`` tag if you prefer async discussion. 
 Open a GitHub issue to report bugs or request features.
 
 ## Governance
 
-The Ansible PROJECTNAME uses the following governance model:
+The Ansible Onboarding toolkit uses the following governance model:
 
 ---
 - A patch SHOULD have a minimum of 2 reviews from Members before it is merged.

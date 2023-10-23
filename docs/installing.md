@@ -1,4 +1,4 @@
-# Installing PROJECTNAME
+# Installing Onboarding toolkit
 
 Edit or remove any sections that do not make sense for your project.
 
@@ -6,7 +6,3 @@ Edit or remove any sections that do not make sense for your project.
 
 
 ## Install from source
-
-
-
-See the [Porting guide](references/porting_guide.md) for details on upgrading to a new version.
