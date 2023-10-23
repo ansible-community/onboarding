@@ -1,4 +1,4 @@
-# Ansible Onboarding toolkit Documentation
 
-Provide a brief summary of the Ansible project and why someone would want to use it.
-The summary should be two or three sentences long.
+Welcome to the Ansible project onboarding toolkit. 
+The purpose of this toolkit is to provide you with guidance as
+you consider adding your project to the Ansible ecosystem of projects.

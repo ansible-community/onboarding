@@ -6,11 +6,13 @@ This project follows the [Ansible Code of Conduct](https://docs.ansible.com/ansi
 
 ## Contributor guidelines
 
-This should include more detail, if necessary, than the repo CONTRIBUTING.md file.
+We welcome all contributions to enhance this onboarding toolkit!
+Open a PR or Issue with your ideas or engage with the community 
+on Matrix or the forum to discuss your ideas.
 
 ## Communicating with the team
 
-We welcome all contributions! You can reach us in the following ways:
+You can reach us in the following ways:
 
-* Matrix - <lhttps://matrix.to/#/#community:ansible.com>
+* On Matrix at https://matrix.to/#/#community:ansible.com
 * [Ansible community forum](https://forum.ansible.com/) - use the ``community`` tag
