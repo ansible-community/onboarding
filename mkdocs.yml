@@ -12,11 +12,9 @@ theme:
 
 nav:
   - index.md
-  - installing.md
   - getting_started.md
-  - User Guide:
-    - user_guide/how_to_xxx.md
-    
+  - onboarding_toolkit.md
+  - docs_toolkit.md    
 
 
 #see mkdocs for other optional extensions
