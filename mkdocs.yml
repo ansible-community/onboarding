@@ -1,0 +1,25 @@
+---
+site_name: Ansible PROJECTNAME documentation
+site_url: https://ansible.readthedocs.io/PROJECTNAME
+repo_url: https://github.com/ansible/PROJECTNAME
+edit_uri: blob/main/docs/
+docs_dir: docs
+strict: true
+use_directory_urls: false
+
+theme:
+  name: "ansible"
+
+nav:
+  - index.md
+  - installing.md
+  - getting_started.md
+  - User Guide:
+    - user_guide/how_to_xxx.md
+  - References:
+    - references/cli.md
+    - references/porting_guide.md
+    - references/roadmap.md
+
+
+#see mkdocs for other optional extensions
