@@ -1,4 +1,4 @@
-# Contributing to PROJECTNAME
+# Contributing to the Ansible Onboarding toolkit
 
 ## Code of Conduct
 
@@ -12,6 +12,5 @@ This should include more detail, if necessary, than the repo CONTRIBUTING.md fil
 
 We welcome all contributions! You can reach us in the following ways:
 
-* Matrix - <link to projectname matrix room>
-* [Ansible community forum](https://forum.ansible.com/) - (add list tags used for your project)
-* Working group (if applicable and times you meet)
+* Matrix - <lhttps://matrix.to/#/#community:ansible.com>
+* [Ansible community forum](https://forum.ansible.com/) - use the ``community`` tag
