@@ -1,4 +1,4 @@
-# Ansible Project Onboarding
+# Ansible project onboarding
 
 Welcome to the Ansible ecosystem of projects! This document guides you 
 through the steps to take to become part of the Ansible ecosystem.
@@ -19,14 +19,21 @@ community and attract other community members to your project.
 
 # Setting up your GitHub repository
 
-The Ansible ecosystem projects exist in the following two GitHub repositories:
+The Ansible ecosystem projects exist in the following two GitHub organizations:
 
 * ansible - Access is controlled by Red Hat
 * ansible-community - Access is controlled by the community, 
 under Red Hat sponsorship
 
-We recommend most Ansible projects use the ansible-community GitHub repository.
+**NOTE:**
+This toolkit does not apply to Ansible collections in the [ansible-collections](https://github.com/ansible-collections/overview) organization.
+See the [Collection contributor guide](https://docs.ansible.com/ansible/latest/community/contributions_collections.html)
+for details.
+
+We recommend most Ansible projects use the ansible-community GitHub organization.
 Repository transfers are available if your project already exists somewhere else in GitHub.
+Contact the [Ansible community team](https://docs.ansible.com/ansible/latest/community/communication.html)
+for assistance.
 
 For new projects, use the [project-template](https://github.com/ansible-community/project-template) to 
 create a project with the default files.
@@ -34,14 +41,15 @@ create a project with the default files.
 ## Other repository settings
 
 * Open up issues and PRs for task tracking and community contributions.
-* Disable the GitHub discussions. Use the 
-[Ansible Community forum](https://forum.ansible.com/) for community and project discussions.
-* Disable the repo wiki for project documentation. See the sections below on 
-documentation and using the Ansible forum.
+* [Disable the GitHub discussions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/enabling-or-disabling-github-discussions-for-a-repository).
+Use the [Ansible Community forum](https://forum.ansible.com/) for community
+and project discussions.
+* [Disable the repository wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/disabling-wikis) 
+for project documentation. See the sections below on documentation and using the Ansible forum.
 
 ## Common files
 
-*Note:* If you use the Ansible GitHub project template, these files are included
+**NOTE:** If you use the Ansible GitHub project template, these files are included
 in the created repository.
 
 All Ansible ecosystem projects MUST include the following files:
@@ -55,7 +63,7 @@ Otherwise, it can point to your project documentation which should include
  a Contributor guide. It also should include your Ansible Matrix chat channels and 
  [Ansible Community Forum](https://forum.ansible.com/) tags.
 * [Code of Conduct](https://github.com/ansible-community/onboarding/blob/main/CODE-OF-CONDUCT.md) - 
-MUST link to the [Ansible code of conduct](https://docs.ansible.com/ansible/devel/community/code_of_conduct.html). 
+MUST _link_ to the [Ansible code of conduct](https://docs.ansible.com/ansible/devel/community/code_of_conduct.html). 
     Do not copy the CoC.
 [DCO](https://github.com/ansible-community/onboarding/blob/main/DCO) - The Developer 
 Certificate of Origin. Do not modify this text.
@@ -66,12 +74,12 @@ with a link to the [Ansible Community Forum](https://forum.ansible.com/).
 You should not use the README.md for project documentation (user guide, for example),
  but instead set up a docsite. Even if the docsite is basic, it's a start others can
 contribute to.
+* A [SECURITY.md](https://github.com/ansible-community/onboarding/blob/main/SECURITY.md) 
+  to let a security reporter know how to proceed.
 
 ## Optional other steps
 While not required, you should consider adding the following to your project repository:
 
-  * Add a [SECURITY.md](https://github.com/ansible-community/onboarding/blob/main/SECURITY.md) 
-  to let a security reporter know how to proceed.
   * Provide Issue and PR templates to improve the contributor experience.
 
 
@@ -133,9 +141,11 @@ that you edit the topic to add your project tag and the `meeting` tag to improve
 
 Use the following communication options to let people know about your Ansible project:
 
- * Announce your project to The Bullhorn.
- * Ask the community team to announce your project in Mastodon.
- * Join the community WG meeting to announce your new project.
+ * Announce your project to [The Bullhorn](https://github.com/ansible/community/wiki/News#the-bullhorn).
+ * Ask [the community team](https://docs.ansible.com/ansible/latest/community/communication.html)
+  to announce your project in Mastodon.
+ * Join the [community WG meeting](https://github.com/ansible/community/wiki/Community)
+ to announce your new project.
 
 
 # Nurture and grow your community
