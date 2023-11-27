@@ -16,13 +16,21 @@ The major benefits of becoming part of the Ansible ecosystem include:
 community and attract other community members to your project.
 
 
+# Getting started
+
+The first step in becoming part of the Ansible ecosystem is to engage with the 
+[Ansible community team](https://docs.ansible.com/ansible/latest/community/communication.html)
+to discuss your options and how your project fits into the Ansible community. 
+The remaining sections here assume that discussion is complete and the community team approves 
+your project for the Ansible community of projects.
+
 
 # Setting up your GitHub repository
 
 The Ansible ecosystem projects exist in the following two GitHub organizations:
 
-* ansible - Access is controlled by Red Hat
-* ansible-community - Access is controlled by the community, 
+* [ansible](https://github.com/ansible) - Access is controlled by Red Hat
+* [ansible-community](https://github.com/ansible-community) - Access is controlled by the community, 
 under Red Hat sponsorship
 
 **NOTE:**
@@ -31,14 +39,21 @@ See the [Collection contributor guide](https://docs.ansible.com/ansible/latest/c
 for details.
 
 We recommend most Ansible projects use the ansible-community GitHub organization.
+
+## Transferring existing repositories
+
 Repository transfers are available if your project already exists somewhere else in GitHub.
 Contact the [Ansible community team](https://docs.ansible.com/ansible/latest/community/communication.html)
-for assistance.
+for assistance. Transferred projects must follow the same format as described in this guide.
+
+## Creating new projects
 
 For new projects, use the [project-template](https://github.com/ansible-community/project-template) to 
 create a project with the default files.
 
-## Other repository settings
+## Submitting your project for inclusion
+
+
 
 * Open up issues and PRs for task tracking and community contributions.
 * [Disable the GitHub discussions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/enabling-or-disabling-github-discussions-for-a-repository).
