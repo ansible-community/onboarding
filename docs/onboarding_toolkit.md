@@ -140,26 +140,18 @@ Synchronous project meetings are an option and you can use the
 Be aware that any real-time meetings will tend to exclude contributors not in or around the 
 meeting timezone.
 
-If you do decide to have a synchronous meeting, add your working group meeting 
-time to the [shared Ansible ICS calender in GitHub](https://github.com/ansible/community/tree/main/meetings).
-
-You can also include your meeting calendar and agenda in the forum. 
-See [the DaWGs agenda](https://forum.ansible.com/t/documentation-working-group-agenda/153)
-for one possible way to do this.
-
-If you run meetings on Matrix, you can invite the Ansible Matrix bot(antsibot)
-to autogenerate a meeting summary that is then posted in the forum
-[Workflows and Logs](https://forum.ansible.com/c/workflow/15) category. We recommend that
-that you edit the topic to add your project tag and the `meeting` tag to improve findability.
+See the [Working group community guidelines](https://docs.ansible.com/ansible/latest/community/communication.html#working-groups)
+for complete details on setting up and running a working group, including synchronous meetings
+on Matrix and ansynchronous discussions on the forum.
 
 ## Raise awareness about your project
 
 Use the following communication options to let people know about your Ansible project:
 
- * Announce your project to [The Bullhorn](https://github.com/ansible/community/wiki/News#the-bullhorn).
+ * Announce your project to [The Bullhorn](https://forum.ansible.com/c/news/bullhorn/17).
  * Ask [the community team](https://docs.ansible.com/ansible/latest/community/communication.html)
   to announce your project in Mastodon.
- * Join the [community WG meeting](https://github.com/ansible/community/wiki/Community)
+ * Join the [community WG meeting](https://matrix.to/#/#community:ansible.com)
  to announce your new project.
 
 
@@ -184,7 +176,7 @@ to help develop project roadmaps, for example.
 
 # Creating your documentation
 
-We have a [Documentation toolkit](./docs_toolkit.md) to help you design 
+We have a [Documentation guide](./docs_toolkit.md) to help you design 
 and publish your documentation to ReadTheDocs as part of the Ansible ecosystem.
 
 # Project governance

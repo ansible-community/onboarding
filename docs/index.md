@@ -10,5 +10,6 @@ that you can use to create a repository in the GitHub
 [ansible-community](https://github.com/ansible-community) organization.
 
 These guidelines are specific to projects being added to the official community
-Ansible ecosystem projects. This does not apply to Ansible collections or other 
+Ansible ecosystem projects in the [ansible-community](https://github.com/ansible-community)
+organization. This does not apply to Ansible collections or other 
 projects not part of the ecosystem.
