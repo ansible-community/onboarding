@@ -12,9 +12,9 @@ theme:
 
 nav:
   - index.md
-  - getting_started.md
   - onboarding_toolkit.md
-  - docs_toolkit.md    
+  - docs_toolkit.md
+  - contributing.md    
 
 
 #see mkdocs for other optional extensions
