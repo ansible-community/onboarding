@@ -1,7 +1,7 @@
 ---
 site_name: Ansible Onboarding toolkit documentation
-site_url: https://ansible.readthedocs.io/Onboarding toolkit
-repo_url: https://github.com/ansible-community/onboarding toolkit
+site_url: https://ansible.readthedocs.io/projects/project-onboarding
+repo_url: https://github.com/ansible-community/onboarding
 edit_uri: blob/main/docs/
 docs_dir: docs
 strict: true
